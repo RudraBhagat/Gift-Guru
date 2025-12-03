@@ -1,8 +1,3 @@
-Here is a clean and professional **README.md** for your full-stack Gift Recommendation App (Gift Guru) using **React + Tailwind + Vite + Node.js + Gemini API**.
-
-You can copy–paste directly into your GitHub repo.
-
----
 
 # 🎁 Gift Guru – AI-Powered Gift Recommendation App
 
@@ -220,13 +215,4 @@ For major changes, please open an issue first.
 
 This project is licensed under the **MIT License**.
 
----
 
-If you want, I can add:
-
-✅ Badges (Node, React, Vite, Tailwind, Gemini)
-✅ Demo GIF
-✅ Deployment instructions (Netlify + Render)
-✅ API Documentation section
-
-Just tell me **"add advanced README"** 🚀
